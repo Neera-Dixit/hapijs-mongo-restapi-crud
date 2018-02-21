@@ -1,0 +1,524 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/neeraj.dixit/.nvm/versions/node/v4.4.7/bin/node',
+1 verbose cli   '/Users/neeraj.dixit/.nvm/versions/node/v4.4.7/bin/npm',
+1 verbose cli   'i',
+1 verbose cli   'hapi-react-views@8.0.0' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose install initial load of /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/package.json
+5 warn package.json hapi_skeleton_project@1.0.0 No description
+6 warn package.json hapi_skeleton_project@1.0.0 No repository field.
+7 warn package.json hapi_skeleton_project@1.0.0 No README data
+8 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/autoprefixer-loader/package.json
+9 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-cli/package.json
+10 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-core/package.json
+11 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-loader/package.json
+12 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-plugin-transform-class-properties/package.json
+13 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-preset-es2015/package.json
+14 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-preset-react/package.json
+15 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-register/package.json
+16 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/classnames/package.json
+17 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/css-loader/package.json
+18 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/dogwater/package.json
+19 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/extract-text-webpack-plugin/package.json
+20 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi/package.json
+21 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/package.json
+22 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/inert/package.json
+23 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/less/package.json
+24 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/less-loader/package.json
+25 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/react/package.json
+26 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/react-dom/package.json
+27 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/sails-mongo/package.json
+28 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/style-loader/package.json
+29 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/vision/package.json
+30 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/waterline/package.json
+31 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/webpack/package.json
+32 verbose installManyTop reading scoped package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/webpack-dev-server/package.json
+33 verbose readDependencies loading dependencies from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/package.json
+34 silly cache add args [ 'hapi-react-views@8.0.0', null ]
+35 verbose cache add spec hapi-react-views@8.0.0
+36 silly cache add parsed spec Result {
+36 silly cache add   raw: 'hapi-react-views@8.0.0',
+36 silly cache add   scope: null,
+36 silly cache add   name: 'hapi-react-views',
+36 silly cache add   rawSpec: '8.0.0',
+36 silly cache add   spec: '8.0.0',
+36 silly cache add   type: 'version' }
+37 silly addNamed hapi-react-views@8.0.0
+38 verbose addNamed "8.0.0" is a plain semver version for hapi-react-views
+39 silly mapToRegistry name hapi-react-views
+40 silly mapToRegistry using default registry
+41 silly mapToRegistry registry https://registry.npmjs.org/
+42 silly mapToRegistry data Result {
+42 silly mapToRegistry   raw: 'hapi-react-views',
+42 silly mapToRegistry   scope: null,
+42 silly mapToRegistry   name: 'hapi-react-views',
+42 silly mapToRegistry   rawSpec: '',
+42 silly mapToRegistry   spec: 'latest',
+42 silly mapToRegistry   type: 'tag' }
+43 silly mapToRegistry uri https://registry.npmjs.org/hapi-react-views
+44 verbose addNameVersion registry:https://registry.npmjs.org/hapi-react-views not in flight; fetching
+45 verbose request uri https://registry.npmjs.org/hapi-react-views
+46 verbose request no auth needed
+47 info attempt registry request try #1 at 6:39:37 PM
+48 verbose request id ea603280b1e8b887
+49 verbose etag "5a076369-de91"
+50 verbose lastModified Sat, 11 Nov 2017 20:54:01 GMT
+51 http request GET https://registry.npmjs.org/hapi-react-views
+52 http 304 https://registry.npmjs.org/hapi-react-views
+53 verbose headers { date: 'Tue, 20 Feb 2018 13:09:37 GMT',
+53 verbose headers   via: '1.1 varnish',
+53 verbose headers   'cache-control': 'max-age=300',
+53 verbose headers   etag: '"5a076369-de91"',
+53 verbose headers   age: '331',
+53 verbose headers   connection: 'keep-alive',
+53 verbose headers   'x-served-by': 'cache-sin18021-SIN',
+53 verbose headers   'x-cache': 'HIT',
+53 verbose headers   'x-cache-hits': '1',
+53 verbose headers   'x-timer': 'S1519132178.803496,VS0,VE0',
+53 verbose headers   vary: 'Accept-Encoding, Accept' }
+54 silly get cb [ 304,
+54 silly get   { date: 'Tue, 20 Feb 2018 13:09:37 GMT',
+54 silly get     via: '1.1 varnish',
+54 silly get     'cache-control': 'max-age=300',
+54 silly get     etag: '"5a076369-de91"',
+54 silly get     age: '331',
+54 silly get     connection: 'keep-alive',
+54 silly get     'x-served-by': 'cache-sin18021-SIN',
+54 silly get     'x-cache': 'HIT',
+54 silly get     'x-cache-hits': '1',
+54 silly get     'x-timer': 'S1519132178.803496,VS0,VE0',
+54 silly get     vary: 'Accept-Encoding, Accept' } ]
+55 verbose etag https://registry.npmjs.org/hapi-react-views from cache
+56 verbose get saving hapi-react-views to /Users/neeraj.dixit/.npm/registry.npmjs.org/hapi-react-views/.cache.json
+57 verbose correctMkdir /Users/neeraj.dixit/.npm correctMkdir not in flight; initializing
+58 silly cache afterAdd hapi-react-views@8.0.0
+59 verbose afterAdd /Users/neeraj.dixit/.npm/hapi-react-views/8.0.0/package/package.json not in flight; writing
+60 verbose correctMkdir /Users/neeraj.dixit/.npm correctMkdir not in flight; initializing
+61 verbose afterAdd /Users/neeraj.dixit/.npm/hapi-react-views/8.0.0/package/package.json written
+62 silly install resolved [ { name: 'hapi-react-views',
+62 silly install resolved     version: '8.0.0',
+62 silly install resolved     description: 'A hapi view engine for React components.',
+62 silly install resolved     main: 'index.js',
+62 silly install resolved     scripts:
+62 silly install resolved      { test: 'lab -t 100 -c -L -I \'Reflect,core,_babelPolyfill,regeneratorRuntime,__core-js_shared__\'',
+62 silly install resolved        'test-cover': 'lab -t 100 -c -r html -o test/artifacts/coverage.html && open test/artifacts/coverage.html',
+62 silly install resolved        'simple-example': 'node examples/simple/server',
+62 silly install resolved        'layout-example': 'node examples/layout/server',
+62 silly install resolved        'layout-component-example': 'node examples/layout-component/server',
+62 silly install resolved        'remount-example': 'webpack --config examples/remount/webpack.js && node examples/remount/server' },
+62 silly install resolved     repository:
+62 silly install resolved      { type: 'git',
+62 silly install resolved        url: 'git+https://github.com/jedireza/hapi-react-views.git' },
+62 silly install resolved     keywords: [ 'hapi', 'react', 'views', 'universal', 'isomorphic' ],
+62 silly install resolved     author:
+62 silly install resolved      { name: 'Reza Akhavan',
+62 silly install resolved        email: 'jedireza@gmail.com',
+62 silly install resolved        url: 'http://reza.akhavan.me/' },
+62 silly install resolved     license: 'MIT',
+62 silly install resolved     bugs: { url: 'https://github.com/jedireza/hapi-react-views/issues' },
+62 silly install resolved     homepage: 'https://github.com/jedireza/hapi-react-views',
+62 silly install resolved     dependencies: { hoek: '4.x.x' },
+62 silly install resolved     peerDependencies: { react: '15.x.x', 'react-dom': '15.x.x ' },
+62 silly install resolved     devDependencies:
+62 silly install resolved      { babel: '6.x.x',
+62 silly install resolved        'babel-core': '6.x.x',
+62 silly install resolved        'babel-loader': '6.x.x',
+62 silly install resolved        'babel-preset-es2015': '6.x.x',
+62 silly install resolved        'babel-preset-react': '6.x.x',
+62 silly install resolved        code: '2.x.x',
+62 silly install resolved        hapi: '13.x.x',
+62 silly install resolved        inert: '4.x.x',
+62 silly install resolved        lab: '10.x.x',
+62 silly install resolved        react: '15.x.x',
+62 silly install resolved        'react-dom': '15.x.x',
+62 silly install resolved        vision: '4.x.x',
+62 silly install resolved        webpack: '1.x.x' },
+62 silly install resolved     gitHead: '33b5b0db31bc0c9b9b247a8454c90bb89847eacc',
+62 silly install resolved     _id: 'hapi-react-views@8.0.0',
+62 silly install resolved     _shasum: '055c7139916c781555132e8433ab8011202bca96',
+62 silly install resolved     _from: 'hapi-react-views@8.0.0',
+62 silly install resolved     _npmVersion: '2.15.1',
+62 silly install resolved     _nodeVersion: '4.4.4',
+62 silly install resolved     _npmUser: { name: 'jedireza', email: 'jedireza@gmail.com' },
+62 silly install resolved     dist:
+62 silly install resolved      { shasum: '055c7139916c781555132e8433ab8011202bca96',
+62 silly install resolved        tarball: 'https://registry.npmjs.org/hapi-react-views/-/hapi-react-views-8.0.0.tgz' },
+62 silly install resolved     maintainers: [ [Object] ],
+62 silly install resolved     _npmOperationalInternal:
+62 silly install resolved      { host: 'packages-12-west.internal.npmjs.com',
+62 silly install resolved        tmp: 'tmp/hapi-react-views-8.0.0.tgz_1463485955900_0.6296274221967906' },
+62 silly install resolved     directories: {},
+62 silly install resolved     _resolved: 'https://registry.npmjs.org/hapi-react-views/-/hapi-react-views-8.0.0.tgz',
+62 silly install resolved     readme: 'ERROR: No README data found!' } ]
+63 info install hapi-react-views@8.0.0 into /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo
+64 info installOne hapi-react-views@8.0.0
+65 verbose installOne of hapi-react-views to /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo not in flight; installing
+66 verbose correctMkdir /Users/neeraj.dixit/.npm/_locks correctMkdir not in flight; initializing
+67 verbose lock using /Users/neeraj.dixit/.npm/_locks/hapi-react-views-e07217455d4fbe08.lock for /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+68 silly install write writing hapi-react-views 8.0.0 to /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+69 verbose unbuild node_modules/hapi-react-views
+70 info preuninstall hapi-react-views@9.3.0
+71 info uninstall hapi-react-views@9.3.0
+72 verbose unbuild rmStuff hapi-react-views@9.3.0 from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules
+73 info postuninstall hapi-react-views@9.3.0
+74 silly gentlyRm /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views is being purged from base /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo
+75 verbose gentlyRm don't care about contents; nuking /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+76 silly vacuum-fs purging /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+77 silly vacuum-fs quitting because other entries in /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules
+78 verbose tar unpack /Users/neeraj.dixit/.npm/hapi-react-views/8.0.0/package.tgz
+79 verbose tar unpacking to /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+80 silly gentlyRm /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views is being purged
+81 verbose gentlyRm don't care about contents; nuking /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+82 silly gunzTarPerm modes [ '755', '644' ]
+83 silly gunzTarPerm extractEntry package.json
+84 silly gunzTarPerm extractEntry .npmignore
+85 silly gunzTarPerm extractEntry README.md
+86 silly gunzTarPerm extractEntry LICENSE
+87 silly gunzTarPerm extractEntry index.js
+88 silly gunzTarPerm extractEntry examples/layout/server.js
+89 silly gunzTarPerm extractEntry examples/layout/views/about.jsx
+90 silly gunzTarPerm extractEntry examples/layout/views/home.jsx
+91 silly gunzTarPerm extractEntry examples/layout/views/layout.jsx
+92 silly gunzTarPerm extractEntry examples/layout-component/server.js
+93 silly gunzTarPerm extractEntry examples/layout-component/views/about.jsx
+94 silly gunzTarPerm extractEntry examples/layout-component/views/home.jsx
+95 silly gunzTarPerm extractEntry examples/layout-component/views/layout.jsx
+96 silly gunzTarPerm extractEntry examples/remount/client.js
+97 silly gunzTarPerm extractEntry examples/remount/server.js
+98 silly gunzTarPerm extractEntry examples/remount/webpack.js
+99 silly gunzTarPerm extractEntry examples/remount/components/app.jsx
+100 silly gunzTarPerm extractEntry examples/remount/components/html.jsx
+101 silly gunzTarPerm extractEntry examples/simple/server.js
+102 silly gunzTarPerm extractEntry examples/simple/views/home.jsx
+103 silly gunzTarPerm extractEntry .travis.yml
+104 silly gunzTarPerm extractEntry .eslintignore
+105 silly gunzTarPerm extractEntry test/index.js
+106 silly gunzTarPerm extractEntry test/fixtures/layout-es6.jsx
+107 silly gunzTarPerm extractEntry test/fixtures/layout.jsx
+108 silly gunzTarPerm extractEntry test/fixtures/view-es6.jsx
+109 silly gunzTarPerm extractEntry test/fixtures/view.jsx
+110 verbose write writing to /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/package.json
+111 info preinstall hapi-react-views@8.0.0
+112 verbose readDependencies loading dependencies from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/package.json
+113 silly prepareForInstallMany adding hoek@4.x.x from hapi-react-views dependencies
+114 silly prepareForInstallMany adding react@15.x.x from hapi-react-views peerDependencies
+115 silly prepareForInstallMany adding react-dom@15.x.x  from hapi-react-views peerDependencies
+116 warn peerDependencies The peer dependency react@15.x.x included from hapi-react-views will no
+117 warn peerDependencies longer be automatically installed to fulfill the peerDependency
+118 warn peerDependencies in npm 3+. Your application will need to depend on it explicitly.
+119 warn peerDependencies The peer dependency react-dom@15.x.x  included from hapi-react-views will no
+120 warn peerDependencies longer be automatically installed to fulfill the peerDependency
+121 warn peerDependencies in npm 3+. Your application will need to depend on it explicitly.
+122 verbose readDependencies loading dependencies from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/package.json
+123 silly cache add args [ 'hoek@4.x.x', null ]
+124 verbose cache add spec hoek@4.x.x
+125 silly cache add parsed spec Result {
+125 silly cache add   raw: 'hoek@4.x.x',
+125 silly cache add   scope: null,
+125 silly cache add   name: 'hoek',
+125 silly cache add   rawSpec: '4.x.x',
+125 silly cache add   spec: '>=4.0.0 <5.0.0',
+125 silly cache add   type: 'range' }
+126 silly addNamed hoek@>=4.0.0 <5.0.0
+127 verbose addNamed ">=4.0.0 <5.0.0" is a valid semver range for hoek
+128 silly addNameRange { name: 'hoek', range: '>=4.0.0 <5.0.0', hasData: false }
+129 silly mapToRegistry name hoek
+130 silly mapToRegistry using default registry
+131 silly mapToRegistry registry https://registry.npmjs.org/
+132 silly mapToRegistry data Result {
+132 silly mapToRegistry   raw: 'hoek',
+132 silly mapToRegistry   scope: null,
+132 silly mapToRegistry   name: 'hoek',
+132 silly mapToRegistry   rawSpec: '',
+132 silly mapToRegistry   spec: 'latest',
+132 silly mapToRegistry   type: 'tag' }
+133 silly mapToRegistry uri https://registry.npmjs.org/hoek
+134 verbose addNameRange registry:https://registry.npmjs.org/hoek not in flight; fetching
+135 verbose request uri https://registry.npmjs.org/hoek
+136 verbose request no auth needed
+137 info attempt registry request try #1 at 6:39:37 PM
+138 verbose etag "5a85b9b4-1d3d8"
+139 verbose lastModified Thu, 15 Feb 2018 16:47:48 GMT
+140 http request GET https://registry.npmjs.org/hoek
+141 http 304 https://registry.npmjs.org/hoek
+142 verbose headers { date: 'Tue, 20 Feb 2018 13:09:37 GMT',
+142 verbose headers   via: '1.1 varnish',
+142 verbose headers   'cache-control': 'max-age=300',
+142 verbose headers   etag: '"5a85b9b4-1d3d8"',
+142 verbose headers   age: '1105',
+142 verbose headers   connection: 'keep-alive',
+142 verbose headers   'x-served-by': 'cache-sin18021-SIN',
+142 verbose headers   'x-cache': 'HIT',
+142 verbose headers   'x-cache-hits': '30',
+142 verbose headers   'x-timer': 'S1519132178.995465,VS0,VE0',
+142 verbose headers   vary: 'Accept-Encoding, Accept' }
+143 silly get cb [ 304,
+143 silly get   { date: 'Tue, 20 Feb 2018 13:09:37 GMT',
+143 silly get     via: '1.1 varnish',
+143 silly get     'cache-control': 'max-age=300',
+143 silly get     etag: '"5a85b9b4-1d3d8"',
+143 silly get     age: '1105',
+143 silly get     connection: 'keep-alive',
+143 silly get     'x-served-by': 'cache-sin18021-SIN',
+143 silly get     'x-cache': 'HIT',
+143 silly get     'x-cache-hits': '30',
+143 silly get     'x-timer': 'S1519132178.995465,VS0,VE0',
+143 silly get     vary: 'Accept-Encoding, Accept' } ]
+144 verbose etag https://registry.npmjs.org/hoek from cache
+145 verbose get saving hoek to /Users/neeraj.dixit/.npm/registry.npmjs.org/hoek/.cache.json
+146 verbose correctMkdir /Users/neeraj.dixit/.npm correctMkdir not in flight; initializing
+147 silly addNameRange number 2 { name: 'hoek', range: '>=4.0.0 <5.0.0', hasData: true }
+148 silly addNameRange versions [ 'hoek',
+148 silly addNameRange   [ '0.0.1',
+148 silly addNameRange     '0.0.2',
+148 silly addNameRange     '0.0.3',
+148 silly addNameRange     '0.0.4',
+148 silly addNameRange     '0.0.5',
+148 silly addNameRange     '0.0.6',
+148 silly addNameRange     '0.0.7',
+148 silly addNameRange     '0.0.8',
+148 silly addNameRange     '0.0.9',
+148 silly addNameRange     '0.0.10',
+148 silly addNameRange     '0.0.11',
+148 silly addNameRange     '0.0.12',
+148 silly addNameRange     '0.0.13',
+148 silly addNameRange     '0.0.14',
+148 silly addNameRange     '0.0.15',
+148 silly addNameRange     '0.0.16',
+148 silly addNameRange     '0.0.17',
+148 silly addNameRange     '0.0.18',
+148 silly addNameRange     '0.0.19',
+148 silly addNameRange     '0.0.21',
+148 silly addNameRange     '0.1.0',
+148 silly addNameRange     '0.2.0',
+148 silly addNameRange     '0.3.0',
+148 silly addNameRange     '0.4.0',
+148 silly addNameRange     '0.4.1',
+148 silly addNameRange     '0.4.2',
+148 silly addNameRange     '0.4.3',
+148 silly addNameRange     '0.4.4',
+148 silly addNameRange     '0.4.5',
+148 silly addNameRange     '0.5.0',
+148 silly addNameRange     '0.6.0',
+148 silly addNameRange     '0.6.1',
+148 silly addNameRange     '0.6.2',
+148 silly addNameRange     '0.7.0',
+148 silly addNameRange     '0.7.1',
+148 silly addNameRange     '0.7.2',
+148 silly addNameRange     '0.7.3',
+148 silly addNameRange     '0.7.4',
+148 silly addNameRange     '0.7.5',
+148 silly addNameRange     '0.7.6',
+148 silly addNameRange     '0.8.0',
+148 silly addNameRange     '0.8.1',
+148 silly addNameRange     '0.8.2',
+148 silly addNameRange     '0.8.3',
+148 silly addNameRange     '0.8.4',
+148 silly addNameRange     '0.8.5',
+148 silly addNameRange     '0.9.0',
+148 silly addNameRange     '0.9.1',
+148 silly addNameRange     '0.10.0',
+148 silly addNameRange     '1.0.0',
+148 silly addNameRange     '1.0.1',
+148 silly addNameRange     '1.0.2',
+148 silly addNameRange     '1.0.3',
+148 silly addNameRange     '1.1.0',
+148 silly addNameRange     '1.1.1',
+148 silly addNameRange     '1.1.2',
+148 silly addNameRange     '1.2.0',
+148 silly addNameRange     '1.3.0',
+148 silly addNameRange     '1.4.0',
+148 silly addNameRange     '1.4.1',
+148 silly addNameRange     '1.5.0',
+148 silly addNameRange     '1.5.1',
+148 silly addNameRange     '1.5.2',
+148 silly addNameRange     '2.0.0',
+148 silly addNameRange     '2.1.0',
+148 silly addNameRange     '2.1.1',
+148 silly addNameRange     '2.2.0',
+148 silly addNameRange     '2.3.0',
+148 silly addNameRange     '2.4.0',
+148 silly addNameRange     '2.4.1',
+148 silly addNameRange     '2.5.0',
+148 silly addNameRange     '2.5.1',
+148 silly addNameRange     '2.6.0',
+148 silly addNameRange     '2.7.0',
+148 silly addNameRange     '2.8.0',
+148 silly addNameRange     '2.8.1',
+148 silly addNameRange     '2.9.0',
+148 silly addNameRange     '2.9.1',
+148 silly addNameRange     '2.10.0',
+148 silly addNameRange     '2.11.0',
+148 silly addNameRange     '2.11.1',
+148 silly addNameRange     '2.12.0',
+148 silly addNameRange     '2.13.0',
+148 silly addNameRange     '2.13.1',
+148 silly addNameRange     '2.14.0',
+148 silly addNameRange     '2.15.0',
+148 silly addNameRange     '2.16.0',
+148 silly addNameRange     '2.16.1',
+148 silly addNameRange     '2.16.2',
+148 silly addNameRange     '2.16.3',
+148 silly addNameRange     '3.0.0',
+148 silly addNameRange     '3.0.1',
+148 silly addNameRange     '3.0.2',
+148 silly addNameRange     '3.0.3',
+148 silly addNameRange     '3.0.4',
+148 silly addNameRange     '4.0.0',
+148 silly addNameRange     '4.0.1',
+148 silly addNameRange     '4.0.2',
+148 silly addNameRange     '4.1.0',
+148 silly addNameRange     '4.1.1',
+148 silly addNameRange     '4.2.0',
+148 silly addNameRange     '5.0.0',
+148 silly addNameRange     '5.0.1',
+148 silly addNameRange     '5.0.2',
+148 silly addNameRange     '5.0.3',
+148 silly addNameRange     '4.2.1' ] ]
+149 silly addNamed hoek@4.2.1
+150 verbose addNamed "4.2.1" is a plain semver version for hoek
+151 silly cache afterAdd hoek@4.2.1
+152 verbose afterAdd /Users/neeraj.dixit/.npm/hoek/4.2.1/package/package.json not in flight; writing
+153 verbose correctMkdir /Users/neeraj.dixit/.npm correctMkdir not in flight; initializing
+154 verbose afterAdd /Users/neeraj.dixit/.npm/hoek/4.2.1/package/package.json written
+155 silly install resolved [ { name: 'hoek',
+155 silly install resolved     description: 'General purpose node utilities',
+155 silly install resolved     version: '4.2.1',
+155 silly install resolved     repository: { type: 'git', url: 'git://github.com/hapijs/hoek.git' },
+155 silly install resolved     main: 'lib/index.js',
+155 silly install resolved     keywords: [ 'utilities' ],
+155 silly install resolved     engines: { node: '>=4.0.0' },
+155 silly install resolved     dependencies: {},
+155 silly install resolved     devDependencies: { code: '4.x.x', lab: '13.x.x' },
+155 silly install resolved     scripts:
+155 silly install resolved      { test: 'lab -a code -t 100 -L',
+155 silly install resolved        'test-cov-html': 'lab -a code -t 100 -L -r html -o coverage.html' },
+155 silly install resolved     license: 'BSD-3-Clause',
+155 silly install resolved     readme: '![hoek Logo](https://raw.github.com/hapijs/hoek/master/images/hoek.png)\n\nUtility methods for the hapi ecosystem. This module is not intended to solve every problem for everyone, but rather as a central place to store hapi-specific methods. If you\'re looking for a general purpose utility module, check out [lodash](https://github.com/lodash/lodash) or [underscore](https://github.com/jashkenas/underscore).\n\n[![Build Status](https://secure.travis-ci.org/hapijs/hoek.svg)](http://travis-ci.org/hapijs/hoek)\n\n<a href="https://andyet.com"><img src="https://s3.amazonaws.com/static.andyet.com/images/%26yet-logo.svg" align="right" /></a>\n\nLead Maintainer: [Nathan LaFreniere](https://github.com/nlf)\n\n**hoek** is sponsored by [&yet](https://andyet.com)\n\n## Usage\n\nThe *Hoek* library contains some common functions used within the hapi ecosystem. It comes with useful methods for Arrays (clone, merge, applyToDefaults), Objects (removeKeys, copy), Asserting and more.\n\nFor example, to use Hoek to set configuration with default options:\n```javascript\nconst Hoek = require(\'hoek\');\n\nconst default = {url : "www.github.com", port : "8000", debug : true};\n\nconst config = Hoek.applyToDefaults(default, {port : "3000", admin : true});\n\n// In this case, config would be { url: \'www.github.com\', port: \'3000\', debug: true, admin: true }\n```\n\n## Documentation\n\n[**API Reference**](API.md)\n',
+155 silly install resolved     readmeFilename: 'README.md',
+155 silly install resolved     gitHead: 'ebe36809c9808386a9a319ffd8956e94973d5504',
+155 silly install resolved     bugs: { url: 'https://github.com/hapijs/hoek/issues' },
+155 silly install resolved     homepage: 'https://github.com/hapijs/hoek#readme',
+155 silly install resolved     _id: 'hoek@4.2.1',
+155 silly install resolved     _npmVersion: '5.6.0',
+155 silly install resolved     _nodeVersion: '8.9.4',
+155 silly install resolved     _npmUser: { name: 'nlf', email: 'quitlahok@gmail.com' },
+155 silly install resolved     dist:
+155 silly install resolved      { integrity: 'sha512-QLg82fGkfnJ/4iy1xZ81/9SIJiq1NGFUMGs6ParyjBZr6jW2Ufj/snDqTHixNlHdPNwN2RLVD0Pi3igeK9+JfA==',
+155 silly install resolved        shasum: '9634502aa12c445dd5a7c5734b572bb8738aacbb',
+155 silly install resolved        tarball: 'https://registry.npmjs.org/hoek/-/hoek-4.2.1.tgz',
+155 silly install resolved        fileCount: 6,
+155 silly install resolved        unpackedSize: 31593 },
+155 silly install resolved     maintainers: [ [Object], [Object], [Object], [Object] ],
+155 silly install resolved     directories: {},
+155 silly install resolved     _npmOperationalInternal:
+155 silly install resolved      { host: 's3://npm-registry-packages',
+155 silly install resolved        tmp: 'tmp/hoek_4.2.1_1518713267203_0.6904772533894958' },
+155 silly install resolved     _shasum: '9634502aa12c445dd5a7c5734b572bb8738aacbb',
+155 silly install resolved     _resolved: 'https://registry.npmjs.org/hoek/-/hoek-4.2.1.tgz',
+155 silly install resolved     _from: 'hoek@>=4.0.0 <5.0.0' } ]
+156 info install hoek@4.2.1 into /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+157 info installOne hoek@4.2.1
+158 verbose installOne of hoek to /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views not in flight; installing
+159 verbose correctMkdir /Users/neeraj.dixit/.npm/_locks correctMkdir not in flight; initializing
+160 verbose lock using /Users/neeraj.dixit/.npm/_locks/hoek-aa525c976709cbed.lock for /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek
+161 silly install write writing hoek 4.2.1 to /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek
+162 verbose unbuild node_modules/hapi-react-views/node_modules/hoek
+163 silly gentlyRm /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek is being purged from base /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo
+164 verbose gentlyRm don't care about contents; nuking /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek
+165 verbose tar unpack /Users/neeraj.dixit/.npm/hoek/4.2.1/package.tgz
+166 verbose tar unpacking to /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek
+167 silly gentlyRm /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek is being purged
+168 verbose gentlyRm don't care about contents; nuking /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek
+169 silly gunzTarPerm modes [ '755', '644' ]
+170 silly gunzTarPerm extractEntry package.json
+171 silly gunzTarPerm extractEntry .npmignore
+172 silly gunzTarPerm extractEntry LICENSE
+173 silly gunzTarPerm extractEntry README.md
+174 silly gunzTarPerm extractEntry lib/escape.js
+175 silly gunzTarPerm extractEntry lib/index.js
+176 verbose write writing to /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek/package.json
+177 info preinstall hoek@4.2.1
+178 verbose readDependencies loading dependencies from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek/package.json
+179 verbose readDependencies loading dependencies from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek/package.json
+180 silly install resolved []
+181 verbose about to build /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek
+182 info build /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek
+183 info linkStuff hoek@4.2.1
+184 silly linkStuff hoek@4.2.1 has /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules as its parent node_modules
+185 verbose linkBins hoek@4.2.1
+186 verbose linkMans hoek@4.2.1
+187 verbose rebuildBundles hoek@4.2.1
+188 info install hoek@4.2.1
+189 info postinstall hoek@4.2.1
+190 verbose unlock done using /Users/neeraj.dixit/.npm/_locks/hoek-aa525c976709cbed.lock for /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/node_modules/hoek
+191 verbose about to build /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+192 info build /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+193 info linkStuff hapi-react-views@8.0.0
+194 silly linkStuff hapi-react-views@8.0.0 has /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules as its parent node_modules
+195 verbose linkBins hapi-react-views@8.0.0
+196 verbose linkMans hapi-react-views@8.0.0
+197 verbose rebuildBundles hapi-react-views@8.0.0
+198 verbose rebuildBundles [ 'hoek' ]
+199 info install hapi-react-views@8.0.0
+200 info postinstall hapi-react-views@8.0.0
+201 verbose readDependencies loading dependencies from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/package.json
+202 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/autoprefixer-loader/package.json
+203 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-cli/package.json
+204 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-core/package.json
+205 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-loader/package.json
+206 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-plugin-transform-class-properties/package.json
+207 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-preset-es2015/package.json
+208 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-preset-react/package.json
+209 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/babel-register/package.json
+210 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/classnames/package.json
+211 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/css-loader/package.json
+212 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/dogwater/package.json
+213 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/extract-text-webpack-plugin/package.json
+214 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi/package.json
+215 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views/package.json
+216 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/inert/package.json
+217 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/less/package.json
+218 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/less-loader/package.json
+219 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/react/package.json
+220 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/react-dom/package.json
+221 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/sails-mongo/package.json
+222 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/style-loader/package.json
+223 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/vision/package.json
+224 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/waterline/package.json
+225 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/webpack/package.json
+226 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/webpack-dev-server/package.json
+227 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/.bin/babel/package.json
+228 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/.bin/babel-doctor/package.json
+229 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/.bin/babel-external-helpers/package.json
+230 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/.bin/babel-node/package.json
+231 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/.bin/lessc/package.json
+232 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/.bin/webpack/package.json
+233 verbose targetResolver reading package data from /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/.bin/webpack-dev-server/package.json
+234 verbose already installed skipping react-dom@15.x.x  /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo
+235 verbose already installed skipping react@15.x.x /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo
+236 silly install resolved []
+237 verbose unlock done using /Users/neeraj.dixit/.npm/_locks/hapi-react-views-e07217455d4fbe08.lock for /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/node_modules/hapi-react-views
+238 verbose validateInstall loading /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo/package.json for validation
+239 verbose stack Error: The package react@16.2.0 does not satisfy its siblings' peerDependencies requirements!
+239 verbose stack     at /Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/lib/install.js:125:32
+239 verbose stack     at /Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/lib/install.js:268:7
+239 verbose stack     at /Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:142:5
+239 verbose stack     at /Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+239 verbose stack     at cb (/Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+239 verbose stack     at /Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+239 verbose stack     at cb (/Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+239 verbose stack     at /Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+239 verbose stack     at cb (/Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+239 verbose stack     at /Users/neeraj.dixit/.nvm/versions/node/v4.4.7/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+240 verbose cwd /Users/neeraj.dixit/Workspace/Learning_Apps/Hapi_Apps/hapi-dogwater-mongo
+241 error Darwin 17.3.0
+242 error argv "/Users/neeraj.dixit/.nvm/versions/node/v4.4.7/bin/node" "/Users/neeraj.dixit/.nvm/versions/node/v4.4.7/bin/npm" "i" "hapi-react-views@8.0.0"
+243 error node v4.4.7
+244 error npm  v2.15.8
+245 error code EPEERINVALID
+246 error peerinvalid The package react@16.2.0 does not satisfy its siblings' peerDependencies requirements!
+246 error peerinvalid Peer hapi-react-views@8.0.0 wants react@15.x.x
+246 error peerinvalid Peer react-dom@16.2.0 wants react@^16.0.0
+247 verbose exit [ 1, true ]
